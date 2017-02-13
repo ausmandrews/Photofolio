@@ -1,0 +1,13 @@
+
+.address-bar {
+  text-transform:inherit;;
+}
+
+small {
+  text-transform: inherit;
+}
+
+.tuck {
+  margin-top: 0;
+  text-transform: inherit;
+}
